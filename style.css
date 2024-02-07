@@ -1,0 +1,64 @@
+.Nama{
+    text-align: center;
+    font-weight: normal;
+    font-size: 50px;
+    
+}
+
+.FILL{
+    text-align: center; 
+    
+}
+
+img{
+    width: 180px;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.636);
+    border-radius: 20px;
+
+}
+
+.ket0{
+    font-weight: lighter;
+    font-size: 25px;
+}
+
+.boldtext{
+    font-weight: bold;
+    padding-right: 20px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.ket1{
+    padding-right: 20px;
+    font-size: 20px;
+    text-align: left;
+}
+
+table{
+    margin: 0 auto;
+    border: 1px;
+}
+
+.body{
+    background-image: url(../P_WEB_4342301026/background/bckg.png);
+}
+
+.body1{
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(5px);
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.636);
+    width: 750px;
+    height: 680px;
+    margin: 0 auto;
+    margin-top: 20px;
+    
+}
+
+.ket2{
+    font-size: 20px;
+    text-align: left;
+}
